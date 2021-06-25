@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Selenium2Test" duration-ms="63317" started-at="2021-06-14T22:50:06 IST" finished-at="2021-06-14T22:51:09 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="63317" started-at="2021-06-14T22:50:06 IST" finished-at="2021-06-14T22:51:09 IST">
+      <class name="Selenium2Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Selenium2Test@73846619]" name="setup" is-config="true" duration-ms="732" started-at="2021-06-14T22:50:06 IST" finished-at="2021-06-14T22:50:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="selTest()[pri:0, instance:Selenium2Test@73846619]" name="selTest" duration-ms="13354" started-at="2021-06-14T22:50:07 IST" finished-at="2021-06-14T22:50:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Selenium2Test@73846619]" name="close" is-config="true" duration-ms="0" started-at="2021-06-14T22:50:20 IST" finished-at="2021-06-14T22:50:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Selenium2Test@73846619]" name="setup" is-config="true" duration-ms="21" started-at="2021-06-14T22:50:20 IST" finished-at="2021-06-14T22:50:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="selTestSelect()[pri:0, instance:Selenium2Test@73846619]" name="selTestSelect" duration-ms="10008" started-at="2021-06-14T22:50:20 IST" finished-at="2021-06-14T22:50:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selTestSelect -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Selenium2Test@73846619]" name="close" is-config="true" duration-ms="762" started-at="2021-06-14T22:50:30 IST" finished-at="2021-06-14T22:50:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Selenium2Test@73846619]" name="setup" is-config="true" duration-ms="45" started-at="2021-06-14T22:50:31 IST" finished-at="2021-06-14T22:50:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="selTestalert()[pri:0, instance:Selenium2Test@73846619]" name="selTestalert" duration-ms="10998" started-at="2021-06-14T22:50:31 IST" finished-at="2021-06-14T22:50:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selTestalert -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Selenium2Test@73846619]" name="close" is-config="true" duration-ms="746" started-at="2021-06-14T22:50:42 IST" finished-at="2021-06-14T22:50:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Selenium2Test@73846619]" name="setup" is-config="true" duration-ms="34" started-at="2021-06-14T22:50:43 IST" finished-at="2021-06-14T22:50:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="selTesthover()[pri:0, instance:Selenium2Test@73846619]" name="selTesthover" duration-ms="6342" started-at="2021-06-14T22:50:43 IST" finished-at="2021-06-14T22:50:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selTesthover -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Selenium2Test@73846619]" name="close" is-config="true" duration-ms="1003" started-at="2021-06-14T22:50:49 IST" finished-at="2021-06-14T22:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Selenium2Test@73846619]" name="setup" is-config="true" duration-ms="23" started-at="2021-06-14T22:50:50 IST" finished-at="2021-06-14T22:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="selTestkeypress()[pri:0, instance:Selenium2Test@73846619]" name="selTestkeypress" duration-ms="9206" started-at="2021-06-14T22:50:50 IST" finished-at="2021-06-14T22:50:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selTestkeypress -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Selenium2Test@73846619]" name="close" is-config="true" duration-ms="756" started-at="2021-06-14T22:50:59 IST" finished-at="2021-06-14T22:51:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Selenium2Test@73846619]" name="setup" is-config="true" duration-ms="38" started-at="2021-06-14T22:51:00 IST" finished-at="2021-06-14T22:51:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="selTestlasttest()[pri:0, instance:Selenium2Test@73846619]" name="selTestlasttest" duration-ms="8450" started-at="2021-06-14T22:51:00 IST" finished-at="2021-06-14T22:51:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selTestlasttest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Selenium2Test@73846619]" name="close" is-config="true" duration-ms="726" started-at="2021-06-14T22:51:09 IST" finished-at="2021-06-14T22:51:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Selenium2Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Selenium2Test -->
+</testng-results>
